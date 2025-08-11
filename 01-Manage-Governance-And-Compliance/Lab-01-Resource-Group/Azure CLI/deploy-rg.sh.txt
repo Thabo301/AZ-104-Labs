@@ -1,0 +1,16 @@
+#!/bin/bash
+# --- Variables ---
+# We use variables so we can easily change the names later.
+resourceGroupName="AZ104-Lab-RG-CLI"
+location="EastUS"
+
+# --- Execution ---
+# Display a message to the screen.
+echo "Starting deployment..."
+echo "Creating Resource Group: $resourceGroupName in location: $location"
+
+# The command to create the Resource Group.
+az group create --name $resourceGroupName --location $location
+
+# --- Confirmation ---
+echo "✅ Deployment complete!"
