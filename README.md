@@ -23,7 +23,7 @@ The folders are structured according to the main objective areas of the AZ-104 e
 
 I believe in continuous learning. You can view my completed training modules and achievements on my public Microsoft Learn profile:
 
-**[➡️ Paste the link to your Microsoft Learn Profile here]**
+**[➡️ https://learn.microsoft.com/en-us/users/thabo-7442/achievements]**
 
 ---
 *This repository is a work in progress. New labs and scripts will be added regularly as I move through the AZ-104 curriculum.*
