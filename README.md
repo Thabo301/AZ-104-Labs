@@ -1,4 +1,4 @@
-AZ-104: Microsoft Azure Administrator Portfolio
+## AZ-104: Microsoft Azure Administrator Portfolio
 
 Welcome! This repository is a live-action portfolio of my skills in Azure administration. It documents my hands-on-keyboard work as I prepare for the AZ-104 Microsoft Azure Administrator certification.
 
